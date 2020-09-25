@@ -63,8 +63,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\Scripts\Coin.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\GroundSpawner.cs" />
     <Compile Include="Assets\Scripts\GroundTile.cs" />
+    <Compile Include="Assets\Scripts\Obstacle.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -595,31 +598,31 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.1f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>E:/Unity/3_Youtube/Tutorials/TempleRun/UnityProjects/EndlessRunnerTutorialMaster/EndlessRunnerTutorial/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>E:/Unity/3_Youtube/SK Studios/Tutorials/EndlessRunner/UnityProjects/EndlessRunnerTutorialMaster/EndlessRunnerTutorial/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>E:/Unity/3_Youtube/Tutorials/TempleRun/UnityProjects/EndlessRunnerTutorialMaster/EndlessRunnerTutorial/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>E:/Unity/3_Youtube/SK Studios/Tutorials/EndlessRunner/UnityProjects/EndlessRunnerTutorialMaster/EndlessRunnerTutorial/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/Unity/3_Youtube/Tutorials/TempleRun/UnityProjects/EndlessRunnerTutorialMaster/EndlessRunnerTutorial/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>E:/Unity/3_Youtube/SK Studios/Tutorials/EndlessRunner/UnityProjects/EndlessRunnerTutorialMaster/EndlessRunnerTutorial/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>E:/Unity/3_Youtube/Tutorials/TempleRun/UnityProjects/EndlessRunnerTutorialMaster/EndlessRunnerTutorial/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>E:/Unity/3_Youtube/SK Studios/Tutorials/EndlessRunner/UnityProjects/EndlessRunnerTutorialMaster/EndlessRunnerTutorial/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>E:/Unity/3_Youtube/Tutorials/TempleRun/UnityProjects/EndlessRunnerTutorialMaster/EndlessRunnerTutorial/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>E:/Unity/3_Youtube/SK Studios/Tutorials/EndlessRunner/UnityProjects/EndlessRunnerTutorialMaster/EndlessRunnerTutorial/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/Unity/3_Youtube/Tutorials/TempleRun/UnityProjects/EndlessRunnerTutorialMaster/EndlessRunnerTutorial/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>E:/Unity/3_Youtube/SK Studios/Tutorials/EndlessRunner/UnityProjects/EndlessRunnerTutorialMaster/EndlessRunnerTutorial/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>E:/Unity/3_Youtube/Tutorials/TempleRun/UnityProjects/EndlessRunnerTutorialMaster/EndlessRunnerTutorial/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>E:/Unity/3_Youtube/SK Studios/Tutorials/EndlessRunner/UnityProjects/EndlessRunnerTutorialMaster/EndlessRunnerTutorial/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/Unity/3_Youtube/Tutorials/TempleRun/UnityProjects/EndlessRunnerTutorialMaster/EndlessRunnerTutorial/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>E:/Unity/3_Youtube/SK Studios/Tutorials/EndlessRunner/UnityProjects/EndlessRunnerTutorialMaster/EndlessRunnerTutorial/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>E:/Unity/3_Youtube/Tutorials/TempleRun/UnityProjects/EndlessRunnerTutorialMaster/EndlessRunnerTutorial/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>E:/Unity/3_Youtube/SK Studios/Tutorials/EndlessRunner/UnityProjects/EndlessRunnerTutorialMaster/EndlessRunnerTutorial/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
